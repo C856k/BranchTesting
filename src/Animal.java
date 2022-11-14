@@ -1,3 +1,3 @@
-public class Animl {
+public class Animal {
     public String name;
 }
