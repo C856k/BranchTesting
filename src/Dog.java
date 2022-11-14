@@ -8,4 +8,15 @@ public class Dog extends Animal {
     public boolean eat(String foodtype) {
         return true;
     }
+
+    @Override
+    public void showMood(boolean mood) {
+        if (true){
+            System.out.println("logrer");
+        }
+        else {
+            System.out.println("knurre");
+        }
+
+    }
 }

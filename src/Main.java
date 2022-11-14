@@ -7,5 +7,7 @@ public class Main {
 
         cat.eat("dogfood");
         dog.eat("fish");
+        cat.showMood(true);
+        dog.showMood(false);
     }
 }
